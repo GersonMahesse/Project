@@ -1,3 +1,3 @@
 # GUESSING GAME
-he_date
-eadme
+Tue Aug 11 21:52:30 SAST 2020
+34
