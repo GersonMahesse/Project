@@ -10,8 +10,8 @@ function test {
  fi
 }
 
-lines=$(ls -l | wc -l) #command substitution to get the number of files
-
+lines=$(ls -1 | wc -l) #command substitution to get the number of files
+echo "How many files are in the current directory?"
 echo "Guess the number of files:"
 test
 
