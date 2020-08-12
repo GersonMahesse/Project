@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# File: guesssgame.sh
+# File: guessinggame.sh
 
 # This function is responsible for testing the value entered by the user
 function test {
