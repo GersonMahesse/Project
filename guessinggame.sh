@@ -9,8 +9,8 @@ function test {
 	echo "Congratulations"
  fi
 }
-
-lines=$(ls -1 | wc -l) #command substitution to get the number of files
+#command substitution to get the number of files
+lines=$(ls -1 | wc -l) # I could heve used ti (ls -l | egrep -c "^-") but this can be an error for those who use Ubuntu.x
 echo "How many files are in the current directory?"
 echo "Guess the number of files:"
 test
