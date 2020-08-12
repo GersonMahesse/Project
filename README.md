@@ -1,3 +1,5 @@
 # GUESSING GAME
-Wed Aug 12 15:40:21 SAST 2020
+**Date:**
+Wed Aug 12 15:46:10 SAST 2020
+**Number of lines:**
 34
